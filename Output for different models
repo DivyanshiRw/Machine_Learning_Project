@@ -1,0 +1,17 @@
+MODEL OUTPUTS
+
+1. Linear Regression
+   mean:  7.818628605315025
+   standard deviation:  1.7986934683071043
+   
+2. Decision Tree Regression
+   mean:  8.93824364279477
+   standard deviation:  1.637446507010927
+   
+3. Random Forest Regression
+    mean:  6.592810663722562
+    standard deviation:  1.6693737225315792
+    
+    
+    
+--> Random Forest Regression is giving best outputs.
